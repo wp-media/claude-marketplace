@@ -1,0 +1,42 @@
+{
+  "name": "wp-media",
+  "owner": {
+    "name": "WP Media",
+    "email": "gael@wp-media.me"
+  },
+  "description": "WP Media Claude Code plugins — AI delivery pipelines and observability tools",
+  "plugins": [
+    {
+      "name": "maestro",
+      "displayName": "Maestro",
+      "source": {
+        "source": "github",
+        "repo": "wp-media/maestro"
+      },
+      "description": "Unified AI delivery pipeline for WordPress plugin and website projects",
+      "author": {
+        "name": "WP Media"
+      },
+      "homepage": "https://github.com/wp-media/maestro",
+      "repository": "https://github.com/wp-media/maestro",
+      "category": "delivery",
+      "tags": ["ai", "pipeline", "orchestrator", "wordpress"]
+    },
+    {
+      "name": "podium",
+      "displayName": "Podium",
+      "source": {
+        "source": "github",
+        "repo": "wp-media/podium"
+      },
+      "description": "AI observability dashboard — track how Claude works across all your Claude Code sessions",
+      "author": {
+        "name": "WP Media"
+      },
+      "homepage": "https://github.com/wp-media/podium",
+      "repository": "https://github.com/wp-media/podium",
+      "category": "observability",
+      "tags": ["ai", "observability", "dashboard", "hooks"]
+    }
+  ]
+}
