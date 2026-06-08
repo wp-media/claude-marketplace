@@ -37,6 +37,22 @@
       "repository": "https://github.com/wp-media/podium",
       "category": "observability",
       "tags": ["ai", "observability", "dashboard", "hooks"]
+    },
+    {
+      "name": "cadenza",
+      "displayName": "Cadenza",
+      "source": {
+        "source": "github",
+        "repo": "wp-media/cadenza"
+      },
+      "description": "Standalone utility agents — changelog, PR description, PHPUnit tests, and retrospective. No pipeline required.",
+      "author": {
+        "name": "WP Media"
+      },
+      "homepage": "https://github.com/wp-media/cadenza",
+      "repository": "https://github.com/wp-media/cadenza",
+      "category": "utilities",
+      "tags": ["ai", "changelog", "pull-request", "testing", "retrospective"]
     }
   ]
 }
