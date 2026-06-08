@@ -45,7 +45,7 @@
         "source": "github",
         "repo": "wp-media/cadenza"
       },
-      "description": "Four standalone utility agents — changelog, PR description, PHPUnit tests, and retrospective. No pipeline required.",
+      "description": "Standalone utility agents — changelog, PR description, PHPUnit tests, and retrospective. No pipeline required.",
       "author": {
         "name": "WP Media"
       },
